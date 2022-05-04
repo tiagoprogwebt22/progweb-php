@@ -35,3 +35,18 @@ Crie o arquivo **exercicio03.php** e programe nele recursos que permitam avaliar
 Mostre no HTML uma mensagem informando o valor do salário antigo (antes do reajuste) e do novo salário (após o reajuste).
 
 **DESAFIO:** existe uma função nativa do PHP que permite mudar a forma como números são exibidos na tela. Descubra qual é esta função e a utilize para exibir os salários com o sinal de **"."** para separador de milhar e **","** para separador de casa decimal com duas casas decimais.
+
+---
+
+## Exercício 04 (na pasta site)
+
+1. Adicione uma página de Contato ao site
+2. Mostre no rodapé a data e hora atual
+
+**Desafio**: programe um script PHP que permita identificar qual página está aberta no momento, e partir disso personalize o título de acordo com a página. 
+
+Exemplos:
+- Está na index.php? Então mostre no `title`: Página Inicial - Site ABC
+- Está na produtos.php?	Então mostre no `title`: Produtos - Site ABC
+- Está na servicos.php?	Então mostre no `title`: Serviços - Site ABC
+- Está na contato.php?	Então mostre no `title`: Contato - Site ABC
